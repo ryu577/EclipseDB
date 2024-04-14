@@ -1,0 +1,9 @@
+﻿EclipseDate,Location,Item,Price,Currency,Type,Vendor,Comment,BookingWebsite,BookingDate,StartTime,EndTime,DateLogged,AddedBy
+4/8/24,Searcy AR,Hotel in Searcy,147,Dollars,Stay,M Star Motel,,Expedia,4/4/24,4/7/24,4/8/24,4/10/24,ryu577
+4/8/24,Dallas TX,Flight back to Seattle,459.96,Dollars,Flight,Frontier airlines,100 bucks added for carry on. 6 hours Layover in Denver.,Travelocity,12/10/23,4/9/24 11:00,,4/10/24,ryu577
+4/8/24,Dallas TX,Hotel in Dallas,87.85,Dollars,Stay,Motel 6,,Expedia,12/10/23,4/8/24 22:30,,4/10/24,ryu577
+4/8/24,Seattle WA,Flight to Dallas,1057.8,Dollars,Flight,Alaskan airlines,,Alaskaair,12/10/23,4/6/24 23:00,4/7/24 5:00,4/10/24,ryu577
+4/8/24,Dallas TX,Car booking,1576,Dollars,Car,SIXT,Exorbitant price for renting car due to high demand.,sixt website,4/4/24,4/7/24,4/9/24,4/10/24,ryu577
+4/8/24,Dallas TX,Uber,78,Dollars,Transport,Uber,From airport to rental car facility (SIXT),uber app,4/7/24,4/7/24 11:30,4/7/24 12:01,4/10/24,ryu577
+4/8/24,Dallas TX,CheckIn bag,100,Dollars,Flight,Frontier airlines,Charged me 100 bucks extra at airport to check in my bag.,at airport,4/9/24,4/9/24,,4/10/24,ryu577
+7/10/17,Seattle WA,Car booking,600,Dollars,Car,,Couldn't find a car anywhere. Had to go all the way to the airport to rent a car.,airport,7/10/17,,,4/10/24,ryu577
