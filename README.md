@@ -1,5 +1,5 @@
 # EclipseDB
-A database for eclipse data
+A database for eclipse data. The real eclipse.
 
 Roughly once a month, we get a new moon. This means the moon is on the same side of the Earth as the Sun. And since the moon doesn’t emit any light of its own, only reflects what the Sun emits, you can’t see a new moon. All the light it reflects travels away from us.
 
